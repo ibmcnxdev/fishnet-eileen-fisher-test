@@ -127,8 +127,8 @@ a#imFollowing, a#statusUpdates, a#discover, a#atMentions, a#forme, a#fromme, a#a
     color:#fff !important;
     font-size: 1.2em !important;
 }
-div.stream-finRight{
-    background: #fff !important;
+.lotusStream #activityStreamMain.lotusWidgetBody .stream-finLeft, .lotusStream #activityStreamMain.lotusWidgetBody .stream-finRight{
+    background: none !important;
 }
 
 .lotusStream .lotusWidgetBody#activityStreamMain .stream-finMiddle{
