@@ -133,6 +133,19 @@ a#imFollowing, a#statusUpdates, a#discover, a#atMentions, a#forme, a#fromme, a#a
 .lotusui30 .dijitMenuPopup .dijitMenuTable .dijitMenuItemSelected td.dijitMenuItemIconCell{
     border-left:4px solid #9a1b1f !important;
 }
+div.hopscotch-bubble .hopscotch-actions{
+    background-color: #000 !important;
+}
+div.hopscotch-bubble .hopscotch-nav-arrow{
+    background-color: #000 !important;
+}
+div.hopscotch-bubble .hopscotch-bubble-arrow-container{
+    color: #000 !important;
+}
+.ic-stream-controls .ic-stream-controls-options ul.bx--tabs__nav li.bx--tabs__nav-item.ic-stream-controls-item{
+    border-color: #9a1b1f !important;
+}
+  
 
 /* hide arrow for active selection */
 .otherActivityStream14{
