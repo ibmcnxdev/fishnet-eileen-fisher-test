@@ -145,6 +145,14 @@ div.hopscotch-bubble .hopscotch-bubble-arrow-container{
 .ic-stream-controls .ic-stream-controls-options ul.bx--tabs__nav li.bx--tabs__nav-item.ic-stream-controls-item{
     border-color: #9a1b1f !important;
 }
+.lotusui30 .lotusColLeft .lconnNavTreeSelector.lotusSelected{
+    border-left: 4px solid #000 !important;
+}
+.lotusui30 .lotusColLeft .lotusGlobalActionBar .lotusBtn, .lotusui30 .lotusColLeft .lotusGlobalActionBar .lotusBtn:hover{
+    background: #000 !important;
+    border: 1px solid #fff !important;
+}
+    
   
 
 /* hide arrow for active selection */
