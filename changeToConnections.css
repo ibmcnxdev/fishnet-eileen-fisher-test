@@ -130,6 +130,8 @@ a#imFollowing, a#statusUpdates, a#discover, a#atMentions, a#forme, a#fromme, a#a
 .lotusStream #activityStreamMain.lotusWidgetBody .stream-finLeft, .lotusStream #activityStreamMain.lotusWidgetBody .stream-finRight{
     background: #fff !important;
 }
+.lotusui30 .dijitMenuPopup .dijitMenuTable .dijitMenuItemSelected td.dijitMenuItemIconCell{
+    border-left:4px solid #9a1b1f !important}
 
 /* hide arrow for active selection */
 .otherActivityStream14{
