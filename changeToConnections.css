@@ -187,6 +187,10 @@ div.hopscotch-bubble .hopscotch-bubble-arrow-container{
     color: #000 !important;
     box-shadow: 0 0 0 1px #000 !important;
 }
+.lotusui30 .lotusBtn{
+    color: #000 !important;
+    box-shadow: 0 0 0 1px #000 inset !important;
+}
 .lotusui30 .lotusMenu .lotusMenuSection li.subNavItem.lotusSelected a span{
     padding-left: 0px !important;
     border-style: none !important;
