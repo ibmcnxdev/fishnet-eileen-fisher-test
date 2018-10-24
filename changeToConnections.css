@@ -27,7 +27,7 @@
     box-shadow: 0 0 0 2px #9a1b1f !important;
 }
 .typeaheadInput{
-    background: #000 !important;
+    background: #000;
 }
 .setSideBar.editing .remove-contacts{
     fill: #000 !important;
