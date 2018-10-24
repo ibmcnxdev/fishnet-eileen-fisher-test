@@ -170,6 +170,13 @@
 .lconnFiles .lotusui30 .lotusMenu div[class~=lotusSelected]{
     border-left: 4px solid #9a1b1f !important;
 }
+.lconnPicker .tabbedSwitch .pickerSourceChecked .lconnPickerSourceLabelSpan{
+    color: #000 !important;
+}
+.lconnPicker .tabbedSwitch .pickerSourceChecked .lconnPickerSourceLabel {
+    border-bottom: 3px solid #9a1b1f !important;
+}
+    
 .lotusui30 .lotusPaging .lotusInlinelist li{
     border-color: #fff !important;
 }
