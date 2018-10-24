@@ -12,6 +12,10 @@
     border-left: 4px solid #9a1b1f !important;
 }
 
+.setSideBar{ /* social home header */
+    background-color: #fff !important;
+}
+
 /*change search box */
 .search-history-view-ui .lotusui30 .icSearchPaneButton .icSearchIcon svg {
     fill: #000 !important;
