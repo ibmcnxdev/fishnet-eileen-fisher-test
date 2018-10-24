@@ -26,7 +26,7 @@
 .people-set .ic-bizcard-section1 .selected{ /* filter outlining  */
     box-shadow: 0 0 0 2px #9a1b1f !important;
 }
-.typeaheadInput{
+.typeaheadDiv{
     background: #000;
 }
 .setSideBar.editing .remove-contacts{
