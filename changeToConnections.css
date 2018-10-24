@@ -141,11 +141,11 @@
 }*/
 
 .lotusui30 .lotusMain span.lotusBtn a{
-    background-color: #000;
+    background-color: #000 !important;
     color: #fff !important;
     border-radius: 0;
     background-image: none;
-    box-shadow: 0 0 0 1px #000 inset;
+    box-shadow: 0 0 0 1px #000 inset !important;
     display: block;
 }
 .lotusui30 .lotusMain span.lotusBtn a:focus, .lotusui30 .lotusMain span.lotusBtn a:hover{
