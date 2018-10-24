@@ -140,6 +140,19 @@
     border: 1px solid #000 !important;
 }*/
 
+.lotusui30 .lotusMain span.lotusBtn a{
+    background-color: #000;
+    color: #fff !important;
+    border-radius: 0;
+    background-image: none;
+    box-shadow: 0 0 0 1px #000 inset;
+    display: block;
+}
+.lotusui30 .lotusMain span.lotusBtn a:focus, .lotusui30 .lotusMain span.lotusBtn a:hover{
+    box-shadow: none !important;
+    background: none !important;
+}
+
 .lotusui30 .lotusTitleBar2 .lotusNavTabs{
     border-bottom: 1px solid #000 !important;
 }
