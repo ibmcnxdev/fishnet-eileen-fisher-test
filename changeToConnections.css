@@ -31,6 +31,9 @@
 .ic-stream-controls .ic-stream-controls-options ul.bx--tabs__nav li.bx--tabs__nav-item.ic-stream-controls-item:hover{
     color:#fff !important
 }
+.ic-stream-controls .ic-filter-tab:hover{
+    color: #000 !important;
+}
 
 /*change search box */
 .search-history-view-ui .lotusui30 .icSearchPaneButton .icSearchIcon svg {
