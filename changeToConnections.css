@@ -179,6 +179,9 @@
 .lconnPicker .tabbedSwitch .switchContainer {
     border-bottom: 1px solid #000 !important;
 }
+.lconnPicker .tabbedSwitch .lconnPickerSourceLabelSpan{
+    color: #000 !important;
+}
     
 .lotusui30 .lotusPaging .lotusInlinelist li{
     border-color: #fff !important;
