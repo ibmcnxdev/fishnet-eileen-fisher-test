@@ -236,7 +236,12 @@ div.hopscotch-bubble .hopscotch-bubble-arrow-container{
 .app_palette_modal_header{
     background-color: #000 !important;
 }
-
+.lotusui30 .lotusFlyout .lotusFlyoutHeader{
+    background-color: #000 !important;
+}
+.lotusui30 .lotusBoard .lotusStream .lotusPostHover, .lotusui30 .lotusBoard .lotusStream .lotusPostSelected{
+    background-color: #ececec !important;
+}
 /* hide arrow for active selection */
 .otherActivityStream14{
     background-image: none !important;
