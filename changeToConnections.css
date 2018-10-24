@@ -243,7 +243,7 @@ div.hopscotch-bubble .hopscotch-bubble-arrow-container{
     background-color: #ececec !important;
 }
 div#dropdownNavMenuContainer div#dropdownNavMenu li a, div#dropdownNavMenuContainer div#dropdownNavMenu li a:before, div#dropdownNavMenuContainer div#dropdownNavMenu div#subcommArea .lotusMenuSection h3, div#dropdownSubMenuContainer div#dropdownSubMenu li a, div#dropdownSubMenuContainer div#dropdownSubMenu li a:before, div#dropdownSubMenuContainer div#dropdownSubMenu div#subcommArea .lotusMenuSection h3{
-    background-color: transparent;
+    background-color: transparent !important;
 }
 
 /* hide arrow for active selection */
