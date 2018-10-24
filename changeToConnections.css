@@ -11,6 +11,10 @@
 .ics-scbanner .navmenu.rd .navsimplelist > li a.selected{
     border-left: 4px solid #9a1b1f !important;
 }
+.ics-scbanner .navsimplelist > li a:focus{
+    border-bottom: none !important;
+    border-top: none !important;
+}
 /*social home */
 
 .setSideBar{ /* header */
