@@ -11,13 +11,25 @@
 .ics-scbanner .navmenu.rd .navsimplelist > li a.selected{
     border-left: 4px solid #9a1b1f !important;
 }
+/*social home */
 
-.setSideBar{ /* social home header */
+.setSideBar{ /* header */
     background-color: #fff !important;
 }
-
-.lotusui30_body{ /* social home body*/
+.lotusui30_body{ /* body*/
     background-color: #fff !important;
+}
+.people-set .ic-bizcard-section1 .selected{ /* filter outlining  */
+    box-shadow: 0 0 0 2px #9a1b1f !important;
+}
+.typeaheadInput{
+    background: #000 !important;
+}
+.setSideBar.editing .remove-contacts{
+    fill: #000 !important;
+}
+.ic-stream-controls .ic-stream-controls-options ul.bx--tabs__nav li.bx--tabs__nav-item.ic-stream-controls-item:hover{
+    color:#fff !important
 }
 
 /*change search box */
