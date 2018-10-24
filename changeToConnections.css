@@ -156,7 +156,10 @@ div.hopscotch-bubble .hopscotch-bubble-arrow-container{
     color: #000 !important;
     box-shadow: 0 0 0 1px #000 !important;
 }
-  
+
+.lotusui30 .lotusDialog .lotusDialogHeader{ /*import and add new members dialog box */
+    background: no-repeat #000 !important;
+}
 
 /* hide arrow for active selection */
 .otherActivityStream14{
