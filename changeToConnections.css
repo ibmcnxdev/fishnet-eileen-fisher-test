@@ -210,6 +210,7 @@ div.hopscotch-bubble .hopscotch-bubble-arrow-container{
     background-color: #000 !important;
     box-shadow: none !important;
     border: 1px solid #000 !important;
+    color: #fff !important;
 }
 .lotusui30 .lotusMenu .lotusMenuSection li.subNavItem.lotusSelected a span{
     padding-left: 0px !important;
