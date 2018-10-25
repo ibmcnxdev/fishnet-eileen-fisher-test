@@ -184,8 +184,13 @@ a#imFollowing, a#statusUpdates, a#discover, a#atMentions, a#forme, a#fromme, a#a
 .lotusStream #activityStreamMain.lotusWidgetBody .stream-finLeft, .lotusStream #activityStreamMain.lotusWidgetBody .stream-finRight{
     background: #fff !important;
 }
+
+.lotusui30 .dijitMenuPopup .dijitMenuTable .dijitMenuItemFocused td.dijitMenuItemLabel{
+    border-bottom:1px solid transparent !important;
+    border-top:1px solid transparent !important;
+}
 .lotusui30 .dijitMenuPopup .dijitMenuTable .dijitMenuItemSelected td.dijitMenuItemIconCell{
-    border-left: 4px solid #9a1b1f !important;
+    border-left:4px solid #9a1b1f !important;
 }
 
 div.hopscotch-bubble .hopscotch-actions{
