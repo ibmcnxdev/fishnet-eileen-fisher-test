@@ -1,8 +1,8 @@
 /* remove blue ribbon */
-.ics-scbanner-gen4border {
+/*.ics-scbanner-gen4border {
     background-color: #fff !important;
     }
-
+*/
 .ics-scbanner > .selected::after{
     border-bottom: 0.25rem solid #9a1b1f !important;
 }
