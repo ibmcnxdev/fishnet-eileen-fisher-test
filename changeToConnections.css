@@ -7,8 +7,8 @@
     border-bottom: 0.25rem solid #9a1b1f !important;
 }
 
-.hikari.ics-scbanner > a:hover{
-    border-bottmo: 0.25rem solid #9a1b1f !important;
+a#communitiesMenu_container.communities:hover{
+    border-bottom: 0.25rem solid #9a1b1f !important;
 }
 
 /*change the nav bar to black*/
