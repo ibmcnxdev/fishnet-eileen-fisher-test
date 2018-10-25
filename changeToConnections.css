@@ -79,7 +79,7 @@
 
 /* Change font to Trade Gothic*/
 .lotusliveui, lotusliveui30, .scloud3 {
-    font: normal .75em/1.5 "Trade Gothic" !important;
+    font: normal .85em/1.5 "Trade Gothic" !important;
 }
 .lotusui30 .lotusTitleBar2 .lotusHeading, .lotusui30 .lotusTitleBar2 .lotusHeading a, .lotusui30 div.lotusTitleBar h2{
    font-family: "Trade Gothic" !important;
@@ -116,7 +116,7 @@
 }
 /* change link or box color to black*/
 .lotusui30 a, .lotusui30 a:visited {
-    color: #86827e !important;
+    color: #000 !important;
 }
 .lotusui30 a:active, .lotusui30 a:focus, .lotusui30 a:hover{
     text-decoration: none !important;
@@ -242,7 +242,7 @@ div.hopscotch-bubble .hopscotch-bubble-arrow-container{
     background-color: #000 !important;
 }
 .lotusui30 .lotusBoard .lotusStream .lotusPostHover, .lotusui30 .lotusBoard .lotusStream .lotusPostSelected{
-    background-color: #ececec !important;
+    background-color: #eee !important;
 }
 div#dropdownNavMenuContainer div#dropdownNavMenu li a, div#dropdownNavMenuContainer div#dropdownNavMenu li a:before, div#dropdownNavMenuContainer div#dropdownNavMenu div#subcommArea .lotusMenuSection h3, div#dropdownSubMenuContainer div#dropdownSubMenu li a, div#dropdownSubMenuContainer div#dropdownSubMenu li a:before, div#dropdownSubMenuContainer div#dropdownSubMenu div#subcommArea .lotusMenuSection h3{
     background-color: transparent !important;
