@@ -297,3 +297,13 @@ div#dropdownNavMenuContainer div#dropdownNavMenu li a, div#dropdownNavMenuContai
 .search-history-view-ui .lotusui30 .icSearchPane .pfEntry.spSelected .lconn_gray, .search-history-view-ui .lotusui30 .icSearchPane .pfEntry.spSelected .lconn_gray a, .search-history-view-ui .lotusui30 .icSearchPane .pfEntry.spSelected .lconn_gray a:visited, .search-history-view-ui .lotusui30 .icSearchPane .pfEntry.spSelected .lconn_title, .search-history-view-ui .lotusui30 .icSearchPane .pfEntry:hover .lconn_gray, .search-history-view-ui .lotusui30 .icSearchPane .pfEntry:hover .lconn_gray a, .search-history-view-ui .lotusui30 .icSearchPane .pfEntry:hover .lconn_gray a:visited, .search-history-view-ui .lotusui30 .icSearchPane .pfEntry:hover .lconn_title{
     color: #9a1b1f !important;
 }
+
+/* notification*/
+.icBanner-notif-center .icBanner-popover-notificationReadAll{
+    color: #000 !important;
+}
+.icBanner-notif-center .icBanner-popover-notificationReadAll:hover{
+    color: #9a1b1f !important;
+    text-decoration: none !important;
+}
+
