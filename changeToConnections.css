@@ -260,12 +260,12 @@ div#dropdownNavMenuContainer div#dropdownNavMenu li a, div#dropdownNavMenuContai
 }
 
 /*community background */
-#lotusFrame.lotusWidget_3columnsTopMenuLayout, #lotusFrame.lotusWidget_3columnsWithBannerTopMenuLayout{
+/*#lotusFrame.lotusWidget_3columnsTopMenuLayout, #lotusFrame.lotusWidget_3columnsWithBannerTopMenuLayout{
     background: #e0e0e0 !important;
 }
 .lotusui30_layout .lotusColLeft{
     background: #e0e0e0 !important;
-}
+}*/
 
 /* hide arrow for active selection */
 .otherActivityStream14{
