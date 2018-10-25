@@ -192,6 +192,11 @@ a#imFollowing, a#statusUpdates, a#discover, a#atMentions, a#forme, a#fromme, a#a
 .lotusui30 .dijitMenuPopup .dijitMenuTable .dijitMenuItemSelected td.dijitMenuItemIconCell{
     border-left:4px solid #9a1b1f !important;
 }
+.sc.hikari .dijitMenuPopup .dijitMenuItemHover td, .sc.hikari .dijitMenuPopup .dijitMenuItemSelected td{
+    border-bottom-color: #fff !important;
+    border-top-color: #fff !important;
+    color: #000 !important;
+}
 
 div.hopscotch-bubble .hopscotch-actions{
     background-color: #000 !important;
