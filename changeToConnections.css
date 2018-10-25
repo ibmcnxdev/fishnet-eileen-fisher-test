@@ -271,3 +271,15 @@ div#dropdownNavMenuContainer div#dropdownNavMenu li a, div#dropdownNavMenuContai
 .otherActivityStream14{
     background-image: none !important;
 }
+.stproxy_navbarMenuNonVerse ul.navsimplelist .stproxy_navbarMenuNonVerse_loginErrorMessage:hover,
+.stproxy_navbarMenuNonVerse ul.navsimplelist .stproxy_navbarMenuNonVerse_loginErrorMessage:focus,
+.stproxy_navbarMenuNonVerse ul.navsimplelist .stproxy_navbarMenuNonVerse_checkbox_frame:hover,
+.stproxy_navbarMenuNonVerse ul.navsimplelist .stproxy_navbarMenuNonVerse_checkbox_frame.stproxy_navbarMenuNonVerse_checkbox_onfocus {
+  border-bottom: 0.0625rem solid #fff !important;
+  border-top: 0.0625rem solid #fff !important;
+}
+.stproxy_navbarMenuNonVerse ul.navsimplelist .stproxy_navbarMenuNonVerse_buttonContainer button {
+    border: 1px solid #fff !important;
+    box-shadow: 0 0 0 3px #fff !important;
+}
+    
