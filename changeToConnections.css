@@ -131,16 +131,6 @@
 .lotusui30 .lotusTabContainer{
     border-bottom: 1px solid #000 !important;
 }
-/*.lotusui30 .lotusMain span.lotusBtn a{
-        color: #000 !important;
-        box-shadow: 0 0 0 1px #000 inset !important;
-}
-.lotusui30 .lotusBtn{
-    background-color: #fff !important;
-    box-shadow: none !important;
-    border: 1px solid #000 !important;
-}*/
-
 .lotusui30 .lotusMain span.lotusBtn a{
     background-color: #000 !important;
     color: #fff !important;
@@ -246,6 +236,10 @@ div.hopscotch-bubble .hopscotch-bubble-arrow-container{
 }
 div#dropdownNavMenuContainer div#dropdownNavMenu li a, div#dropdownNavMenuContainer div#dropdownNavMenu li a:before, div#dropdownNavMenuContainer div#dropdownNavMenu div#subcommArea .lotusMenuSection h3, div#dropdownSubMenuContainer div#dropdownSubMenu li a, div#dropdownSubMenuContainer div#dropdownSubMenu li a:before, div#dropdownSubMenuContainer div#dropdownSubMenu div#subcommArea .lotusMenuSection h3{
     background-color: transparent !important;
+}
+.lotusui30 .lotusColLeft .lotusMenu li a:focus {
+    border-top: none !important;
+    border-bottom: none !important;
 }
 
 /* hide arrow for active selection */
