@@ -6,7 +6,7 @@
 /*change the nav bar to black*/
 .ics-scbanner{
     background-color: black !important;
-    font-size: 14px;
+    font-size: 14px !important;
 }
 
 .ics-scbanner .navmenu.rd .navsimplelist > li a.selected{
