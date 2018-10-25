@@ -3,6 +3,14 @@
     background-color: #fff !important;
     }
 
+.ics-scbanner > .selected::after{
+    border-bottom: 0.25rem solid #9a1b1f !important;
+}
+
+.hikari.ics-scbanner > a:hover{
+    border-bottmo: 0.25rem solid #9a1b1f !important;
+}
+
 /*change the nav bar to black*/
 .ics-scbanner{
     background-color: black !important;
