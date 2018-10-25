@@ -194,8 +194,9 @@ a#imFollowing, a#statusUpdates, a#discover, a#atMentions, a#forme, a#fromme, a#a
     background: #fff !important;
 }
 .lotusui30 .dijitMenuPopup .dijitMenuTable .dijitMenuItemSelected td.dijitMenuItemIconCell{
-    border-left:4px solid #9a1b1f !important;
+    border-left: 4px solid #9a1b1f !important;
 }
+
 div.hopscotch-bubble .hopscotch-actions{
     background-color: #000 !important;
 }
