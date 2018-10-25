@@ -285,4 +285,12 @@ div#dropdownNavMenuContainer div#dropdownNavMenu li a, div#dropdownNavMenuContai
 .icNote-message .bluedot{
     border:1px solid #fff !important;
 }
-    
+
+/*search*/
+.search-history-view-ui .lotusui30 .icSearchPaneButton.icSearchBarMode .icSearchBar .icSearchIcon svg, .search-history-view-ui .lotusui30 .icSearchPane .icTopSection .icSearchBar .icSearchIcon svg{
+    fill: #000 !important;
+}
+.search-history-view-ui .lotusui30 .icSearchPane .pfEntry.spSelected, .search-history-view-ui .lotusui30 .icSearchPane .pfEntry:hover{
+    border-color: #9a1b1f !important;
+}
+        
