@@ -259,6 +259,18 @@ div#dropdownNavMenuContainer div#dropdownNavMenu li a, div#dropdownNavMenuContai
     border-bottom: 2px solid #9a1b1f !important;
 }
 
+/*community background */
+#lotusFrame.lotusWidget_3columnsTopMenuLayout, #lotusFrame.lotusWidget_3columnsWithBannerTopMenuLayout{
+    background: #e0e0e0 !important;
+}
+
+.communities-widget-appearance .lotusui30 div:not(#profilePaneLeft):not(#profilePaneRight):not(#profileBody):not(#tabsWidget1_widgetId_container)>.lotusWidget2{
+    background-color: #e0e0e0 !important;
+}
+.lotusui30_layout .lotusColLeft{
+    background: #e0e0e0 !important;
+}
+
 /* hide arrow for active selection */
 .otherActivityStream14{
     background-image: none !important;
