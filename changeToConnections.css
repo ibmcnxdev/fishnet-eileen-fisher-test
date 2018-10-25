@@ -282,4 +282,7 @@ div#dropdownNavMenuContainer div#dropdownNavMenu li a, div#dropdownNavMenuContai
     border: 1px solid #fff !important;
     box-shadow: 0 0 0 3px #fff !important;
 }
+.icNote-message .bluedot{
+    border:1px solid #fff !important;
+}
     
