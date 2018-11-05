@@ -324,8 +324,7 @@ div#dropdownNavMenuContainer div#dropdownNavMenu li a, div#dropdownNavMenuContai
 .lotusSection[aria-label="Similar Blogs"] { display: none !important;}
 .lotusSection[aria-label="Similar Entries"] { display: none !important;}
 
-.lotusui30 .lotusTitleBar2 .lotusHeading, .lotusui30 .lotusTitleBar2 .lotusHeading a, .lotusui30 div.lotusTitleBar h2{
-    text-tranform: uppercase !important;
-    font-weight: 500 !important;
-}
 
+.lotusui30 .lotusTitleBar2 .lotusHeading, .lotusText{
+       text-tranform: uppercase !important; 
+}
