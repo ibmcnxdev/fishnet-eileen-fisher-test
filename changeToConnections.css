@@ -326,12 +326,14 @@ div#dropdownNavMenuContainer div#dropdownNavMenu li a, div#dropdownNavMenuContai
 
 /* make upper case and increase font boldness */
   .lotusui30 .lotusTitleBar2.lotusTitleBar2Tabs .lotusHeading{
-     text-transform: uppercase !important; 
-     font-weight: 600 !important; 
+     text-transform: uppercase !important;  
 }
 
 .lotusui30 div.lotusTitleBar2 .lotusHeading{
     text-transform: uppercase !important;
+}
+
+.lotusui30 .lotusTitleBar2 .lotusHeading a{
     font-weight: 600 !important;
 }
 
