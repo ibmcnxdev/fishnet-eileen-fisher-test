@@ -324,5 +324,5 @@ div#dropdownNavMenuContainer div#dropdownNavMenu li a, div#dropdownNavMenuContai
 .lotusSection[aria-label="Similar Blogs"] { display: none !important;}
 
 .lotusSprite[aria-label="Click to expand section"] {
-  onclick="lconn.blogs.utils.toggleSection(this, 'Click to collapse section', 'Click to expand section');return true;"
+  onload="lconn.blogs.utils.toggleSection(this, 'Click to collapse section', 'Click to expand section');return true;"
 } 
