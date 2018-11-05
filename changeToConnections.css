@@ -320,3 +320,6 @@ div#dropdownNavMenuContainer div#dropdownNavMenu li a, div#dropdownNavMenuContai
     border-left: none !important;
 }
 
+/* hide similar blogs section */
+.lotusSection[aria-label="Similar Blogs"] { display: none !important;}
+
