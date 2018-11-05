@@ -322,6 +322,7 @@ div#dropdownNavMenuContainer div#dropdownNavMenu li a, div#dropdownNavMenuContai
 
 /* hide similar blogs section */
 .lotusSection[aria-label="Similar Blogs"] { display: none !important;}
+.lotusSection[aria-label="Similar Entries"] { display: none !important;}
 
 .lotusSprite lotusArrow lotusTwistyClosed {
     .lotusSectionBody{
