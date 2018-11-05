@@ -323,5 +323,6 @@ div#dropdownNavMenuContainer div#dropdownNavMenu li a, div#dropdownNavMenuContai
 /* hide similar blogs section */
 .lotusSection[aria-label="Similar Blogs"] { display: none !important;}
 
-a#archive.lotusArrow.lotusTwistyClosed;
-
+.lotusSprite[aria-label="Click to expand section"] {
+  onclick="lconn.blogs.utils.toggleSection(this, 'Click to collapse section', 'Click to expand section');return true;"
+} 
