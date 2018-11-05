@@ -325,6 +325,6 @@ div#dropdownNavMenuContainer div#dropdownNavMenu li a, div#dropdownNavMenuContai
 .lotusSection[aria-label="Similar Entries"] { display: none !important;}
 
 
-.lotusui30 .lotusTitleBar2 .lotusHeading, .lotusText{
-       text-tranform: uppercase !important; 
+  .lotusui30 .lotusTitleBar2.lotusTitleBar2Tabs .lotusHeading{
+       text-transform: uppercase !important; 
 }
