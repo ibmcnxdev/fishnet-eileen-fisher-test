@@ -323,5 +323,5 @@ div#dropdownNavMenuContainer div#dropdownNavMenu li a, div#dropdownNavMenuContai
 /* hide similar blogs section */
 .lotusSection[aria-label="Similar Blogs"] { display: none !important;}
 
-.lotusSection[aria-expanded="false"];
+a#archive.lotusArrow.lotusTwistyClosed;
 
