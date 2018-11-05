@@ -331,6 +331,7 @@ div#dropdownNavMenuContainer div#dropdownNavMenu li a, div#dropdownNavMenuContai
 
 .lotusui30 div.lotusTitleBar2 .lotusHeading{
     text-transform: uppercase !important;
+    font-weight: 600 !important;
 }
 
 .lotusui30 .lotusTitleBar2 .lotusHeading a{
