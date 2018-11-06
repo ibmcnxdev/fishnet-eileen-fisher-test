@@ -326,9 +326,6 @@ div#dropdownNavMenuContainer div#dropdownNavMenu li a, div#dropdownNavMenuContai
 /*.lotusui30 .lotusTitleBar, .lotusui30 .lotusTitleBar2{
     height: 102px !important;*/
 }
-/* .lotusui30 .lotusTitleBar2 .lotusNavTabs{
-     padding-top: 0px !important;
-}*/
 
 /* make upper case and increase font boldness */
 /* Communities Landing Page header placement */
@@ -336,9 +333,7 @@ div#dropdownNavMenuContainer div#dropdownNavMenu li a, div#dropdownNavMenuContai
     text-transform: uppercase !important;
     font-weight: 600 !important;
 }
-/*.lotusui30_body .lotusMain{
-    padding: 40px 20px 0 !important;
-}*/
+
 .lotusui30 .lotusTitleBar2 .lotusHeading a{
     font-weight: 600 !important;
 }
