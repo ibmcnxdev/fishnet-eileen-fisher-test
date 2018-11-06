@@ -329,6 +329,9 @@ div#dropdownNavMenuContainer div#dropdownNavMenu li a, div#dropdownNavMenuContai
      text-transform: uppercase !important;  
      padding-top: 0px !important;
 }
+.lotusui30 .lotusTitleBar, .lotusui30 .lotusTitleBar2{
+    height: 102px !important;
+}
  .lotusui30 .lotusTitleBar2 .lotusNavTabs{
      padding-top: 0px !important;
 }
