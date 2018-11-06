@@ -3,6 +3,11 @@
 / *hide additional dropdown options for start a community button */
 /*.dijitPopup {display: none !important;}*/
 
-div#popup_8 .dijitPopup .dijitMenuPopup{
+/*div#popup_8 .dijitPopup .dijitMenuPopup{
+  display: none !important;
+}*/
+
+.lotusui30 .lotusNavMenu{
   display: none !important;
 }
+
