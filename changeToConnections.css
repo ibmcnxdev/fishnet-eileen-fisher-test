@@ -363,7 +363,11 @@ div#dropdownNavMenuContainer div#dropdownNavMenu li a, div#dropdownNavMenuContai
     margin-bottom: 3px !important;
 }
 
+/* search page borders changed*/
 .search-global-search-restyle .lotusui30 .icSearchResultsPage div.lconnSearchResults .lotusTable tr:hover, .search-global-search-restyle .lotusui30 .icSearchResultsPage div.lconnSearchResults .lotusTable tr.icSearchResultSelected{
     border-color: #9a1b1f !important;
+}
+.search-global-search-restyle .lotusui30 .icSearchResultsPage .lconnSearchHeader .lotusSearch{
+    border-bottom-color: #9a1b1f !important;
 }
     
