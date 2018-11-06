@@ -333,9 +333,9 @@ div#dropdownNavMenuContainer div#dropdownNavMenu li a, div#dropdownNavMenuContai
 .lotusui30 .lotusTitleBar, .lotusui30 .lotusTitleBar2{
     height: 102px !important;
 }
- .lotusui30 .lotusTitleBar2 .lotusNavTabs{
+/* .lotusui30 .lotusTitleBar2 .lotusNavTabs{
      padding-top: 0px !important;
-}
+}*/
 
 /* make upper case and increase font boldness */
 /* Communities Landing Page header placement */
@@ -366,4 +366,13 @@ div#dropdownNavMenuContainer div#dropdownNavMenu li a, div#dropdownNavMenuContai
 .ic-stream-controls .ic-stream-controls-options ul.bx--tabs__nav a:hover{
     background-color: #fff !important;
 }
+
+/* On the community list page added top and bottom border between each community
+   Made titles uppercase and larger font */
+.lotusui30 .lotusTable h4{
+    font-size: 1.1em !important;
+    text-transform:uppercase !important;
+    margin-bottom: 3px !important;
+}
+
     
