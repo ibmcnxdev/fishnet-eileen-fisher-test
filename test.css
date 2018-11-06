@@ -1,4 +1,4 @@
 /*.lotusActionBar[aria-label] { display: none !important; }*/
 
 / *hide additional dropdown options for start a community button */
-.dijitPopup[aria-label="dijit_Menu_0"] {display: none !important;}
+.dijitPopup {display: none !important;}
