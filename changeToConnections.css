@@ -373,4 +373,7 @@ div#dropdownNavMenuContainer div#dropdownNavMenu li a, div#dropdownNavMenuContai
 .search-global-search-restyle .lotusui30 .icSearchResultsPage .lconnSearchHeader .lotusSearch .icSearchInputBox input, .search-global-search-restyle .lotusui30 .icSearchResultsPage .lconnSearchResults .icPagination .icSelected, .search-global-search-restyle .lotusui30 .icSearchResultsPage .lconnSearchResults .lotusTable tr:hover .lconnSearchBookmarkUrl, .search-global-search-restyle .lotusui30 .icSearchResultsPage .lotusTable tr:hover .lotusMeta .icGreyText, .search-global-search-restyle .lotusui30 .icSearchResultsPage .lotusTable tr:hover:not(.icLastPageMessage) .lotusMeta, .search-global-search-restyle .lotusui30 .icSearchResultsPage div.lconnSearchResults .lconnSearchBookmarkUrl, .search-global-search-restyle .lotusui30 .icSearchResultsPage div.lconnSearchResults .lotusTable tr:hover .icSearchDetails a, .search-global-search-restyle .lotusui30 .icSearchResultsPage div.lconnSearchResults .lotusTable tr:hover .icSearchTitle a, .search-global-search-restyle .lotusui30 .icSearchResultsPage div.lconnSearchResults .lotusTable tr:hover .lconnStatusUpdateTitle .icStatusUpdate, .search-global-search-restyle .lotusui30 .icSearchResultsPage div.lconnSearchResults .lotusTable tr:hover .lconnStatusUpdateTitle .lotusPerson{
     color: #000 !important;
 }
+.search-global-search-restyle .lotusui30 .icSearchResultsPage div.lconnSearchResults .lotusTable tr{
+    border-bottom: 1px solid #c6c6c6 !important;
+}
     
