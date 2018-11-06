@@ -267,13 +267,6 @@ div#dropdownNavMenuContainer div#dropdownNavMenu li a, div#dropdownNavMenuContai
     border-bottom: 2px solid #9a1b1f !important;
 }
 
-/*community background */
-/*#lotusFrame.lotusWidget_3columnsTopMenuLayout, #lotusFrame.lotusWidget_3columnsWithBannerTopMenuLayout{
-    background: #e0e0e0 !important;
-}
-.lotusui30_layout .lotusColLeft{
-    background: #e0e0e0 !important;
-}*/
 
 /* hide arrow for active selection */
 .otherActivityStream14{
@@ -328,10 +321,10 @@ div#dropdownNavMenuContainer div#dropdownNavMenu li a, div#dropdownNavMenuContai
 /* Actitivies Landing Page header placement*/
   .lotusui30 .lotusTitleBar2.lotusTitleBar2Tabs .lotusHeading{
      text-transform: uppercase !important;  
-     padding-top: 0px !important;
+    /* padding-top: 0px !important;*/
 }
-.lotusui30 .lotusTitleBar, .lotusui30 .lotusTitleBar2{
-    height: 102px !important;
+/*.lotusui30 .lotusTitleBar, .lotusui30 .lotusTitleBar2{
+    height: 102px !important;*/
 }
 /* .lotusui30 .lotusTitleBar2 .lotusNavTabs{
      padding-top: 0px !important;
@@ -343,9 +336,9 @@ div#dropdownNavMenuContainer div#dropdownNavMenu li a, div#dropdownNavMenuContai
     text-transform: uppercase !important;
     font-weight: 600 !important;
 }
-.lotusui30_body .lotusMain{
+/*.lotusui30_body .lotusMain{
     padding: 40px 20px 0 !important;
-}
+}*/
 .lotusui30 .lotusTitleBar2 .lotusHeading a{
     font-weight: 600 !important;
 }
@@ -355,7 +348,7 @@ div#dropdownNavMenuContainer div#dropdownNavMenu li a, div#dropdownNavMenuContai
 .sc.hikari.lotusui30 div.lotusTitleBar h2{
     text-transform: uppercase !important;
     font-weight: 600 !important;
-    padding-top: 0px !important;
+  /*  padding-top: 0px !important;*/
 }
 
 /* social feed */
