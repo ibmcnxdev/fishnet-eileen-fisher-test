@@ -345,4 +345,5 @@ div#dropdownNavMenuContainer div#dropdownNavMenu li a, div#dropdownNavMenuContai
 .sc.hikari.lotusui30 div.lotusTitleBar h2{
     text-transform: uppercase !important;
     font-weight: 600 !important;
+    padding-top: 0px !important;
 }
