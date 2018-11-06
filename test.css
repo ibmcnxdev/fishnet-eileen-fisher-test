@@ -1,4 +1,8 @@
 /*.lotusActionBar[aria-label] { display: none !important; }*/
 
 / *hide additional dropdown options for start a community button */
-.dijitPopup {display: none !important;}
+/*.dijitPopup {display: none !important;}*/
+
+div#popup_8 .dijitPopup .dijitMenuPopup{
+  display: none !important;
+}
