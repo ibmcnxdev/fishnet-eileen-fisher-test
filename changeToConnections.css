@@ -357,3 +357,13 @@ div#dropdownNavMenuContainer div#dropdownNavMenu li a, div#dropdownNavMenuContai
     font-weight: 600 !important;
     padding-top: 0px !important;
 }
+
+/* social feed */
+/* change hover color on top & latest updates button */
+.ic-stream-controls .ic-stream-controls-options ul.bx--tabs__nav li.bx--tabs__nav-item.ic-stream-controls-item a.bx--tabs__nav-link:focus{
+    border-color: #fff !important;
+}
+.ic-stream-controls .ic-stream-controls-options ul.bx--tabs__nav a:hover{
+    background-color: #fff !important;
+}
+    
