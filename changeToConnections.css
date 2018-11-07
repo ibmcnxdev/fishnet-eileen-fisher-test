@@ -56,6 +56,9 @@
 .ic-stream-controls .ic-stream-controls-options ul.bx--tabs__nav{
     text-transform: uppercase !important;
 }
+.template-homepage .om-go-to-top-container .om-go-to-top-btn{
+    background-color: #000 !important;
+}
 
 /*change search box */
 .search-history-view-ui .lotusui30 .icSearchPaneButton .icSearchIcon svg {
