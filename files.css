@@ -5,3 +5,6 @@
 .ics-viewer ul.ics-viewer-tabs > li > a{
   color: #fff !important;
 }
+.fileviewer-panels-textnav .ics-viewer ul.ics-viewer-tabs > li.selected a{
+      border-bottom: 6px solid #9a1b1f !important;
+}
