@@ -1,3 +1,7 @@
-.lotusui30 a, .lotusui30 a:visited{
-color: #fff !important;
+.ics-viewer .ics-viewer-banner .ics-viewer-title .ics-viewer-title-name-container a.ics-viewer-title-name{
+  color: #fff !important;
+}
+
+.ics-viewer ul.ics-viewer-tabs > li > a{
+  color: #fff !important;
 }
