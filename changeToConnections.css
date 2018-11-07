@@ -24,6 +24,11 @@
     border-bottom: none !important;
     border-top: none !important;
 }
+
+.lotusStream #activityStreamMain.lotusWidgetBody .streamHeaderWrapper.isSticky .streamHeaderInner{
+    background: #000 !important;
+}
+
 /*social home */
 
 .setSideBar{ /* header */
