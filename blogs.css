@@ -1,4 +1,9 @@
 a.fn.url{
-color: #4178be !important;
-text-decoration: underline !important;
+  color: #4178be !important;
+  text-decoration: underline !important;
+}
+
+.lotusui30 strong{
+  color: #4178be !important;
+  text-decoration: underline !important;
 }
