@@ -1,15 +1,15 @@
 a.fn.url{
-  color: #4178be !important;
+  font-weight:600;
   text-decoration: underline !important;
 }
 
 .lotusui30 strong{
-  color: #4178be !important;
+  font-weight:600;
   text-decoration: underline !important;
 }
 
 p a{
-  color: #4178be !important;
+  font-weight:600;
   text-decoration: underline !important;
 }
   
