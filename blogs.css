@@ -7,3 +7,9 @@ a.fn.url{
   color: #4178be !important;
   text-decoration: underline !important;
 }
+
+p a{
+  color: #4178be !important;
+  text-decoration: underline !important;
+}
+  
