@@ -1,0 +1,15 @@
+/*.lotusActionBar[aria-label] { display: none !important; }*/
+
+/*hide additional dropdown options for start a community button */
+/*.dijitPopup[aria-label="dijit_Menu_0"] {display: none !important;}*/
+
+tr.placeRow{
+  border-bottom: 1px solid #c6c6c6 !important;
+}
+tr.placeRow.lotusFirst{
+  border-top: 1px solid #c6c6c6 !important;
+}
+
+.lotusui30 .tabNavBar .tabNavCommunityName div{
+  text-transform: uppercase !important;
+}
