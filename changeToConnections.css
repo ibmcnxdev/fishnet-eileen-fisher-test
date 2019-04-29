@@ -399,6 +399,9 @@ body .bx--tabs__nav-item--selected{
 .bx--cardv2.community-card .card-header .card-title{
     text-transform: capitalize !important;
 }
+.bx--overflow-menu:hover{
+    background: #000 !important;
+    box-shadow: 0 0 0 1px #000, 0 0 0 2px #000 !important;
 
 /* search page borders changed*/
 .search-global-search-restyle .lotusui30 .icSearchResultsPage div.lconnSearchResults .lotusTable tr:hover, .search-global-search-restyle .lotusui30 .icSearchResultsPage div.lconnSearchResults .lotusTable tr.icSearchResultSelected{
