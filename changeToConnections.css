@@ -416,6 +416,11 @@ body .bx--tabs__nav-item--selected{
 .bx--list-box__field:focus, .bx--list-box__field[aria-expanded=true]{
     outline: 1px solid #fff !important;
 }
+.ic-view-select .bx--list-box__menu-item--highlighted{
+    background-color: #fff !important;
+    color: #9a1b1f !important;
+    font-weight: bold !important;
+}
     
 /* search page borders changed*/
 .search-global-search-restyle .lotusui30 .icSearchResultsPage div.lconnSearchResults .lotusTable tr:hover, .search-global-search-restyle .lotusui30 .icSearchResultsPage div.lconnSearchResults .lotusTable tr.icSearchResultSelected{
