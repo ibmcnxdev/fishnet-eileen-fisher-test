@@ -430,6 +430,9 @@ body .bx--tabs__nav-item--selected{
 .filter-refiner .bx--tag{
     font-size: .85rem !important;
 }
+.tag-finder .input svg.search{
+    fill: #000 !important;
+}
 /* search page borders changed*/
 .search-global-search-restyle .lotusui30 .icSearchResultsPage div.lconnSearchResults .lotusTable tr:hover, .search-global-search-restyle .lotusui30 .icSearchResultsPage div.lconnSearchResults .lotusTable tr.icSearchResultSelected{
     border-left-color: #9a1b1f !important;
