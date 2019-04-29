@@ -410,6 +410,12 @@ body .bx--tabs__nav-item--selected{
     font-size: .95rem !important;
     font-family: "Trade Gothic", sans-serif !important;
 }
+.bx--list-box__field[aria-expanded=true]~.bx--list-box__menu{
+    box-shadow: 0 1px 0 0 #fff, 1px 0 0 0 #fff, -1px 0 0 0 #FFF, 0 4px 8px 0 rgba(0,0,0,.1) !important;
+}
+.bx--list-box__field:focus, .bx--list-box__field[aria-expanded=true]{
+    outline: 1px solid #fff !important;
+}
     
 /* search page borders changed*/
 .search-global-search-restyle .lotusui30 .icSearchResultsPage div.lconnSearchResults .lotusTable tr:hover, .search-global-search-restyle .lotusui30 .icSearchResultsPage div.lconnSearchResults .lotusTable tr.icSearchResultSelected{
