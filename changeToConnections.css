@@ -378,6 +378,7 @@ div#dropdownNavMenuContainer div#dropdownNavMenu li a, div#dropdownNavMenuContai
     margin-bottom: 3px !important;
 }
 body .bx--tabs__nav-link:hover {
+    color: #000 !important;
     background: #fff !important;
     border-color: #fff !important;
     font-weight:bold !important;
