@@ -424,7 +424,12 @@ body .bx--tabs__nav-item--selected{
     color: #9a1b1f !important;
     font-weight: bold !important;
 }
-    
+.bx--action-icon--selected{
+    border-bottom: 3px solid #9a1b1f !important;
+}
+.filter-refiner .bx--tag{
+    font-size: .85rem !important;
+}
 /* search page borders changed*/
 .search-global-search-restyle .lotusui30 .icSearchResultsPage div.lconnSearchResults .lotusTable tr:hover, .search-global-search-restyle .lotusui30 .icSearchResultsPage div.lconnSearchResults .lotusTable tr.icSearchResultSelected{
     border-left-color: #9a1b1f !important;
