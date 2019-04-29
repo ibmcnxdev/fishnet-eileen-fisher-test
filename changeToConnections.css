@@ -369,12 +369,21 @@ div#dropdownNavMenuContainer div#dropdownNavMenu li a, div#dropdownNavMenuContai
     background-color: #fff !important;
 }
 
+/* Communities List page*/
 /* On the community list page added top and bottom border between each community
    Made titles uppercase and larger font */
 .lotusui30 .lotusTable h4{
     font-size: 1.1em !important;
     text-transform:uppercase !important;
     margin-bottom: 3px !important;
+}
+body .bx--tabs__nav-link:hover {
+    background: #fff !important;
+    border-color: #fff !important;
+    font-weight:bold !important;
+}
+body .bx--tabs__nav-item--selected{
+    border-bottom: 3px solid #9a1b1f !important;
 }
 
 /* search page borders changed*/
