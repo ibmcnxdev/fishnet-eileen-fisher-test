@@ -393,6 +393,12 @@ body .bx--tabs__nav-item--selected{
 .catalog-card-view.catalog-ui-updated #placesAdmin .lotusMain .catalog-top-nav .bx--tabs__nav, .catalog-card-view.catalog-ui-updated .catalog .lotusMain .catalog-top-nav .bx--tabs__nav{
     font-family: "Trade Gothic", sans-serif !important;
 }
+.bx--cardv2.community-card .card-header, .bx--cardv2.community-card .card-header .parent-community-name{
+    font-family: "Trade Gothic", sans-serif !important;
+}
+.bx--cardv2.community-card .card-header .card-title{
+    text-transform: capitalize !important;
+}
 
 /* search page borders changed*/
 .search-global-search-restyle .lotusui30 .icSearchResultsPage div.lconnSearchResults .lotusTable tr:hover, .search-global-search-restyle .lotusui30 .icSearchResultsPage div.lconnSearchResults .lotusTable tr.icSearchResultSelected{
