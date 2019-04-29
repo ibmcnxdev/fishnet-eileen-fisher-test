@@ -1,11 +1,13 @@
 /*.lotusActionBar[aria-label] { display: none !important; }*/
 
 /*hide additional dropdown options for start a community button */
-.dijitPopup[aria-label="dijit_Menu_0"] {display: none !important;}
+/* no longer works with april 2019 update
+.dijitPopup[aria-label="dijit_Menu_0"] {display: none !important;} 
+*/
 
-body .icCatalogCommunityCreate.bx--dropdown .bx--dropdown-list{
-  display: none !important;
-}
+/*hide additional dropdown options for start a community button */
+/* updated as of april 2019 update */
+body .icCatalogCommunityCreate.bx--dropdown .bx--dropdown-list{display: none !important;}
 
 tr.placeRow{
   border-bottom: 1px solid #c6c6c6 !important;
