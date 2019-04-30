@@ -436,13 +436,13 @@ body .bx--tabs__nav-item--selected{
 body .bx--tabs__nav-item{
     padding: .625rem 0 0 !important;
 }
-bx--btn--secondary:hover {
+.bx--btn--secondary:hover {
     background: #fff !important;
     border-color: #e7e7e7 !important;
     box-shadow: 0 0 0 1px #000 !important;
 }
 
-bx--btn--secondary:active {
+.bx--btn--secondary:active {
     background: #fff !important;
     border-color: #e7e7e7 !important;
     box-shadow: 0 0 0 1px #000 !important;
