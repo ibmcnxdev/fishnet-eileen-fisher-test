@@ -437,16 +437,18 @@ body .bx--tabs__nav-item{
     padding: .625rem 0 0 !important;
 }
 .bx--btn--secondary:hover {
-    background: #fff !important;
+    background: #e7e7e7!important;
     border-color: #e7e7e7 !important;
     box-shadow: 0 0 0 1px #000 !important;
+    font-weight: bold !important;
+}
+.bx--btn--secondary:active {
+    background: #e7e7e7!important;
+    border-color: #e7e7e7 !important;
+    box-shadow: 0 0 0 1px #000 !important;
+    font-weight: bold !important;
 }
 
-.bx--btn--secondary:active {
-    background: #fff !important;
-    border-color: #e7e7e7 !important;
-    box-shadow: 0 0 0 1px #000 !important;
-}
 /* search page borders changed*/
 .search-global-search-restyle .lotusui30 .icSearchResultsPage div.lconnSearchResults .lotusTable tr:hover, .search-global-search-restyle .lotusui30 .icSearchResultsPage div.lconnSearchResults .lotusTable tr.icSearchResultSelected{
     border-left-color: #9a1b1f !important;
