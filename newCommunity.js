@@ -3,7 +3,10 @@
 ;
 document.getElementById("bx--dropdown-text").createTextNode("Request a Community");
 */
-div = document.getElementById("bx--dropdown-text");
+/*div = document.getElementById("bx--dropdown-text");
 txt = document.createTextNode("Request a Community");
 div.appendChild(txt);
+*/
+
+document.body.innerHTML = document.body.innerHTML.replace('Create a Community','Request a Community');
 
