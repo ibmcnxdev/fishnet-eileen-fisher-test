@@ -3,7 +3,7 @@
 ;
 document.getElementById("lconn-create-community-container").textContent = "Request a Community";
 */
-/*div = document.getElementById("lconn-create-community-container");
+div = document.getElementById("lconn-create-community-container");
 txt = document.createTextNode("Request a Community");
 div.appendChild(txt);
-*/
+
