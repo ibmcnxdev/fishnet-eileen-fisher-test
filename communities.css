@@ -8,6 +8,7 @@
 /*hide additional dropdown options for start a community button */
 /* updated as of april 2019 update */
 body .icCatalogCommunityCreate.bx--dropdown .bx--dropdown-list{display: none !important;}
+.bx--dropdown__arrow{ display: none !important;}
 
 tr.placeRow{
   border-bottom: 1px solid #c6c6c6 !important;
